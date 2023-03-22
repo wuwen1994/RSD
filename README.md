@@ -10,7 +10,7 @@ by Wen Wu, Xiao-Diao Chen, Wenya Yang, and Jun-Hai Yong
 The results of shadow detection on three datasets (SBU, UCF, ISTD) can be found at [BaiduNetdisk](https://pan.baidu.com/s/1v3yflIR3kn6QyC1OLzl_eQ)(8myd).
 
 ## Visual comparison with SOTA
-![result](figs/result.jpg)
+![result](figs/result.png)
 
 ## Requirement
 * Python 3.6

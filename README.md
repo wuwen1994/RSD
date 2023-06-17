@@ -41,5 +41,3 @@ SBU dataset: [BaiduNetdisk](https://pan.baidu.com/s/19-k2aZUXnQOlwkcgROb3hA)(o4i
 
 ISTD dataset: [BaiduNetdisk](https://pan.baidu.com/s/1AwjUwTVRZJSWTYiSGUpJAw)(ni0z)
 
-CUHK_Shadow dataset: [BaiduNetdisk](https://pan.baidu.com/s/1j1sgt2qu1H4Y7jWwRsZnVw)(z7pt)
-

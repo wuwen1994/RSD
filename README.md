@@ -1,5 +1,5 @@
 # Exploring Better Target for Shadow Detection
-by Wen Wu, Xiao-Diao Chen, Wenya Yang, and Jun-Hai Yong
+by Wen Wu, Xiao-Diao Chen, and Jun-Hai Yong
 
 #### News: In 2023.3.21, We release the unsorted code for other researchers. The sorted code will be released after.
 
